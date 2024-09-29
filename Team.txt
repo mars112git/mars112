@@ -1,4 +1,4 @@
-Sourcetree 설치
+Sourcetree 설치 / commit할 branch 생성
 
 commit 카테고리 관리
 [INITIAL] — repository를 생성하고 최초에 파일을 업로드 할 때
